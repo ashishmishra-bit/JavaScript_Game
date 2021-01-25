@@ -50,6 +50,12 @@ body{
     text-align: center; 
     font-family: 'Ubuntu', sans-serif;
 }
+span{
+    color:chocolate;
+    font-weight: bold;
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
 
 #scoreCont{
     font-size: 25px;
