@@ -51,8 +51,9 @@ body{
     font-family: 'Ubuntu', sans-serif;
     /* margin-top: 50px; */
 }
-.game_heading{
-    position: relative;
+.game_heading h1{
+    /* position: relative; */
+    font-size: 2px!important;
     top:63px;
     font-size: 53px;
     text-align: center; 
