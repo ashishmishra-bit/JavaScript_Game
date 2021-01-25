@@ -49,6 +49,15 @@ body{
     font-size: 53px;
     text-align: center; 
     font-family: 'Ubuntu', sans-serif;
+    /* margin-top: 50px; */
+}
+.game_heading{
+    position: relative;
+    top:63px;
+    font-size: 53px;
+    text-align: center; 
+    font-family: 'Ubuntu', sans-serif;
+    margin-top: 50px;
 }
 span{
     color:chocolate;
