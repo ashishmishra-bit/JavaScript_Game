@@ -69,5 +69,5 @@ setInterval(() => {
 }, 10);
 
 function updateScore(score) {
-    scoreCont.innerHTML = "Your Score: " + score
+    scoreCont.innerHTML = "Score: " + score
 }
